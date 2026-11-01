@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="40" viewBox="0 0 144 40" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn de Matheus Volotão</title>
+  <rect x="1" y="1" width="142" height="38" rx="8" fill="#0d1318" stroke="#293b40"/>
+  <rect x="8" y="8" width="24" height="24" rx="6" fill="#12231d" stroke="#7bdcb5" stroke-opacity="0.4"/>
+  <text x="20" y="25" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#7bdcb5">in</text>
+  <text x="41" y="25" font-family="Consolas, monospace" font-size="13" fill="#eef5f7">linkedin</text>
+  <path d="M127 23l5-5m-5 0h5v5" fill="none" stroke="#7bdcb5" stroke-width="1.2"/>
+</svg>
